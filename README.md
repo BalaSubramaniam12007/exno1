@@ -146,3 +146,15 @@ df1
 
 # Result:
 The given data has been successfully read, cleaned by handling duplicates and missing values, and saved to a new file named cleaned_data.csv.
+
+# Final Outcome
+
+The data cleaning process successfully:
+
+Eliminated missing values.
+
+Standardized the datasets by replacing or imputing nulls.
+
+Removed significant outliers using both IQR and Z-score methods.
+
+Produced final cleaned CSV files ready for further data analysis or machine learning tasks.
